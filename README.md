@@ -1,0 +1,2 @@
+# Wireless-Presentation-Clicker-Glasses-from-Scratch-ESP32-Arduino-Pro-Micro
+Built a completely wireless PowerPoint clicker using an ESP32 and Arduino Pro Micro —  no touch modules, no IR sensors, just the ESP32's built-in capacitive touch pins doing  all the work.  Touch a wire → ESP32 detects it → sends command over Bluetooth → Pro Micro acts as a  USB keyboard → slide changes. That's the whole thing.
